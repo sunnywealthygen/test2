@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "norse-voice-417000",
+  "private_key_id": "0633d3d9fab6678edcf3106788bf42521eda2969",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCk7ZARWH3hI2kE\nJi8mtgpk3yBxqotrE2aG1BLsfzNMR+zgS8/dcIw95F45Gl3Ytra3RCcW58+/bswJ\nohEcvZ2fEZVcd9fQIwjS74JaqLHWi2RSxtjGlxw3W6DhsCJ3o0vT9HxMTMBxdN9r\nRnDuD16ewFgH9jIYdNLn8PnUxAmTs2/1UlITNWSY0+DHzunInz/Tt+JLGkOqeRI+\noMq/Ov3wiw1qLgCnffgtACDu8OjMtOiHNOHbxIBjaciFAO1BwNPuNEIWXyWkSdSG\n3PYMN8Ql5D+iZeYPIaH3Px6GhYTPdmuCPHlqExLFNXBLzehU2l6NjStRSpNC1sA4\nRG8SRIG1AgMBAAECggEACoyninR+mMgLD5jhqzg5sfoTuTGPeWnkRPuLulTokxiG\nrlIrGZ75WXwiCsUE+7e0OETDu1NYloYfxv322j/GtUYKp7+Crm2PQu7PB72CopaH\n9EOD2jAQPfo+cDE0AzMOxp/802SVaqxvHg2Da7bP9peXCetViPrwAqYHVPS1KB1X\n2yh66P1t5dlZzdXAeQMc1457nyHIh1DmagLdSh9wCPFQeTHRlxskCUYxPyTCk/gD\n+sX4hPk96qcuvE3xiFi7RIFQRg6liSRBqvaXv0e9BlZMyiU8vnTjsyUtvxg6nFmN\nefZLYdy08flhYujxhY6xuyFQYtmXgsKd8HXEIr3YgQKBgQDXVQJArI8ujli0UOuw\ndP9UGjj+RcsKZFlDfTRFU9Cp130BGdnF1u2bxxMIfgytLqkkbpHdXTEX2lmt0qqA\naTq8T0yL3gAKZHcyF7bausu0YD2ochMh4fhhtJOElITKa1lWF+2Tk2DSlDSjtIZd\n5h1tnzLP4mnjO/0IfYqyojaiawKBgQDEE5cGkCe+ondJVquh86ZnKiXH1JzsgSbJ\nNCetqiZJ0KrJOrFfZkJ9WZOJdWkDY8ALQRE6iyuoyT10YHbNMcpEvG1IVcAbwDOv\nLyIIZP7aJi43Z+TpFKJHliidl76rdHhUtkqpvMw3emNH7pZqR6QRjW8malwlgF6P\nevzgEiG0XwKBgG9aq66MTgMSY7bjve5jooJ4iQ6dQxGdsTegcL6FSHv8Ts2Z869G\npVuQiDw1CxMn9Ro8/7uM7M1cAlJMhhWf1Vr6WyhdZoH5UFacQtg8Dwm5V0lbrJ8x\n/0NvoXXHZCBVgT5vY1GUvlZHhC1ANtgqHv/IevtcJ8v2ArU4Tthv4Hb/AoGAHrtz\nUHQHxrlwOO58uEWYL1NL2KZacjdL/P1PusiQd8FdA21Pn8RHZ55CoajlbMKVty3b\npXFqxmnEWBlGhaLoMR3Xgx7tnWvirfKVQvuRdl/FnqmKF35EcTP36bt/ByCaO6zW\nxwPwfkGQjhW3PbE85gNlCIBjMP2N1K9SM0ykO8ECgYAIISAp3nYq/OYOz7zD9uE8\no5IArczuFJF8A8DD7SML4Mv5AFytsBgZbi/1Xjk+6VM/vYM5gaAJXo9s/Y6uiP+Q\nS5RvUSjFmZ/aIO1+jLPKOxu9HGQwABRIaoPchpvQ4i9RmlpMUdde0hAdNqBBkt21\n1eEsYfnVCrMwrJlLh86pPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sunny-26@norse-voice-417000.iam.gserviceaccount.com",
+  "client_id": "104152751557553855184",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sunny-26%40norse-voice-417000.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
