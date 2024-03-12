@@ -29,4 +29,7 @@ with open('thepower.txt', 'w') as file_obj:
     file_obj.write(str(int(k)+1))
 
 print(k)
-
+file1 = open('thepower.txt', 'r')
+Lines = file1.readlines()
+for line in Lines:
+  print(k)
