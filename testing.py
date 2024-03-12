@@ -8,7 +8,7 @@ scopes = [
 ]
 
 credentials = Credentials.from_service_account_file(
-    '/content/norse-voice-417000-0633d3d9fab6.json',
+    'norse-voice-417000-0633d3d9fab6.json',
     scopes=scopes
 )
 file1 = open('thepower.txt', 'r')
@@ -23,7 +23,7 @@ gc = gspread.authorize(credentials)
 
 sh = gc.open("tester")
 worksheet = sh.get_worksheet(0)
-worksheet.update('A'+k, k)
+worksheet.update_acell('A'+k, k)
 
 file1 = open('thepower.txt', 'w')
 file1.writelines(str(int(k)+1))
