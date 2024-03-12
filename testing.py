@@ -30,3 +30,4 @@ print(k)
 with open('thepower.txt') as file_obj: 
     for line in file_obj: 
         print(line)
+print('version 4')
