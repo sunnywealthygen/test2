@@ -25,6 +25,8 @@ sh = gc.open("tester")
 worksheet = sh.get_worksheet(0)
 worksheet.update_acell('A'+k, k)
 
-file1 = open('thepower.txt', 'w')
-file1.writelines(str(int(k)+1))
-file1.close()
+with open('thepower.txt', 'w') as file_obj:
+    file_obj.write(str(int(k)+1))
+
+print(k)
+
