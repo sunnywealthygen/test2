@@ -27,6 +27,7 @@ worksheet.update_acell('A'+k, k)
 
 with open('thepower.txt', 'w') as file_obj:
     file_obj.write(str(int(k)+1))
+    print(str(int(k)+1))
 
 print(k)
 file1 = open('thepower.txt', 'r')
