@@ -8,18 +8,16 @@ scopes = [
 ]
 
 credentials = Credentials.from_service_account_file(
-    'norse-voice-417000-0633d3d9fab6.json',
+    '/content/norse-voice-417000-0633d3d9fab6.json',
     scopes=scopes
 )
+
 gc = gspread.authorize(credentials)
 
 sh = gc.open("tester")
 worksheet = sh.get_worksheet(0)
-k=1
-while True : 
-  val = worksheet.acell('A'+str(k)).value
-  if val=='' :
-    worksheet.update_acell('A'+str(k), str(k))
-    print(k)
-    break
-  k=k+1
+
+worksheet1 = sh.get_worksheet(1)
+k=worksheet1.acell('A1').value
+worksheet1.update_acell('A1', str(int(k)+1))
+print(worksheet.update_acell('A'+str(k), k))
